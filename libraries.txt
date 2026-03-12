@@ -1,0 +1,53 @@
+Practical 2 
+
+py -m pip install pandas 
+
+practical 3 
+
+py -m pip install pandas
+
+py -m pip install matplotlib 
+
+py -m pip install scikit-learn
+
+
+practical 4 
+
+py -m pip install matplotlib
+py -m pip install scipy
+py -m pip install seaborn
+
+practical 5 
+
+py -m pip install statsmodels
+
+practical 7
+
+py -m pip install scikit-learn
+
+py -m pip install pandas
+
+py -m pip install matplotlib 
+
+py -m pip install numpy
+
+practical 8 
+
+py -m pip install numpy
+
+py -m pip install pandas
+
+practical 9 
+
+py -m pip install scikit-learn
+
+py -m pip install pandas
+
+py -m pip install matplotlib
+
+py -m pip install numpy
+
+
+
+
+
